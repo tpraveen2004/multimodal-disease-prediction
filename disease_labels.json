@@ -1,0 +1,7 @@
+{
+  "covid": 0,
+  "pneumonia": 1,
+  "viral": 2,
+  "bacterial": 3,
+  "normal": 4
+}
